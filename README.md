@@ -1,4 +1,4 @@
 # powerbi_pwc
 power bi tasks for pwc 
 
-theses are the tasks i made using powerbi for pwc in forage job simulation
+these are the tasks ive created for pwc in forage job simulation using power bi 
